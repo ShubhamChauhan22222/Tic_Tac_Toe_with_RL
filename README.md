@@ -16,7 +16,7 @@ This repository contains an implementation of a Tic Tac Toe game and a reinforce
 ## Usage
 
 1. **Copy the Code:**
-   - Copy the entire code in ttt.y file into a Jupyter Notebook or directly run the ttt.py Python script.
+   - Copy the entire code in ttt.py file into a Jupyter Notebook or directly run the ttt.py Python script.
 
 2. **Run the Script:**
    - Run the script to train the agent and interactively play Tic Tac Toe.
@@ -26,7 +26,7 @@ This repository contains an implementation of a Tic Tac Toe game and a reinforce
      
 4. **Training Notebook:**
    - tic-tac-toe-with-reinforced-learning.ipynb
-   - Use this jupyrt nb for understanding the code and training.
+   - Use this jupyter Notebook for understanding the code and training part.
 
 ## TicTacToeGame Class
 
